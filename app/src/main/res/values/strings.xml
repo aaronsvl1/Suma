@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo1">Suma de dos numeros</string>
+    <string name="num1">Ingrese el primer numero</string>
+    <string name="num2">Ingrese el segundo numero</string>
+    <string name="resultado">El resultado es: </string>
+</resources>
